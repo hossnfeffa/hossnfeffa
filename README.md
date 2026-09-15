@@ -4,26 +4,16 @@ Operations and cybersecurity professional focused on **security operations, gove
 
 This GitHub is a portfolio of hands-on security investigations, governance projects, AI-assisted workflows, and security automation.
 
-![ISC2 SSCP](https://img.shields.io/badge/ISC2-SSCP-1F3864?style=flat-square)
-![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-1F3864?style=flat-square)
-![CompTIA CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-1F3864?style=flat-square)
-![ITIL 4 Foundations](https://img.shields.io/badge/ITIL-4%20Foundations-1F3864?style=flat-square)
-
 ---
 
-## 🔐 Featured Security Projects
+## 🛡 Governance, Risk & AI Security
 
-### [Honeypot Lifecycle: Threat Hunting & Breach Investigation](https://github.com/hossnfeffa/Honeypot-Lifecycle)
-End-to-end security investigation built around an intentionally exposed system. The project covers attack collection, forensic analysis, KQL threat hunting, incident reporting, and visualization of inbound authentication activity.
+### [Generative AI Security Governance](https://github.com/hossnfeffa/Generative-AI-Security-Governance)
+Cybersecurity capstone focused on governing generative AI use within a managed service provider environment. The project develops a security architecture combining **Microsoft Purview DLP, Defender for Endpoint, and Microsoft Sentinel** to reduce the risk of sensitive information being exposed through generative AI tools.
 
-**Technologies:** Microsoft Defender for Endpoint • Microsoft Sentinel • KQL • Azure Workbooks • Incident Response
+**Frameworks:** NIST CSF • NIST SP 800-53 • NIST AI RMF • CIS Controls v8
 
-**Repository includes:** investigation evidence, KQL queries, telemetry, incident reports, workbook templates, and a complete lab walkthrough.
-
-### [Vulnerability Management Program](https://github.com/hossnfeffa/Vulnerability-Management-Program)
-Practical vulnerability management project covering the lifecycle from vulnerability discovery and prioritization through remediation and validation.
-
-**Focus areas:** Vulnerability Management • Risk Prioritization • Remediation • Security Operations
+**Repository includes:** cybersecurity problem and risk analysis, security architecture and implementation proposal, DLP and monitoring strategy, cost and implementation planning, technical report and residual-risk analysis.
 
 ---
 
@@ -48,24 +38,29 @@ AI assistant designed for MSP and IT technicians working active support tickets.
 
 ---
 
-## 🛡 Governance, Risk & AI Security
+## 🔐 Featured Security Projects
 
-### [Generative AI Security Governance](https://github.com/hossnfeffa/Generative-AI-Security-Governance)
-Cybersecurity capstone focused on governing generative AI use within a managed service provider environment. The project develops a security architecture combining **Microsoft Purview DLP, Defender for Endpoint, and Microsoft Sentinel** to reduce the risk of sensitive information being exposed through generative AI tools.
+### [Honeypot Lifecycle: Threat Hunting & Breach Investigation](https://github.com/hossnfeffa/Honeypot-Lifecycle)
+End-to-end security investigation built around an intentionally exposed system. The project covers attack collection, forensic analysis, KQL threat hunting, incident reporting, and visualization of inbound authentication activity.
 
-**Frameworks:** NIST CSF • NIST SP 800-53 • NIST AI RMF • CIS Controls v8
+**Technologies:** Microsoft Defender for Endpoint • Microsoft Sentinel • KQL • Azure Workbooks • Incident Response
 
-**Repository includes:** cybersecurity problem and risk analysis, security architecture and implementation proposal, DLP and monitoring strategy, cost and implementation planning, technical report and residual-risk analysis.
+**Repository includes:** investigation evidence, KQL queries, telemetry, incident reports, workbook templates, and a complete lab walkthrough.
+
+### [Vulnerability Management Program](https://github.com/hossnfeffa/Vulnerability-Management-Program)
+Practical vulnerability management project covering the lifecycle from vulnerability discovery and prioritization through remediation and validation.
+
+**Focus areas:** Vulnerability Management • Risk Prioritization • Remediation • Security Operations
 
 ---
 
 ## 🧰 Technologies & Areas of Focus
 
-**Security Operations:** Microsoft Sentinel • Microsoft Defender for Endpoint • KQL • SIEM • Threat Hunting • Incident Response
-
 **Governance & Risk:** NIST CSF • NIST SP 800-53 • NIST AI RMF • CIS Controls • Risk Assessment • Security Governance
 
 **Automation & AI:** Power Automate • Azure OpenAI • AI Agents • Workflow Automation • Generative AI Governance
+
+**Security Operations:** Microsoft Sentinel • Microsoft Defender for Endpoint • KQL • SIEM • Threat Hunting • Incident Response
 
 **IT Operations:** MSP Operations • ConnectWise • SOP Development • Escalation Management • ITIL-Based Processes
 
@@ -93,12 +88,12 @@ New projects land here first — a row is all it takes. The sections above stay 
 
 | Project | Category | Key Tech | Link |
 |---|---|---|---|
-| Honeypot Lifecycle | Security Investigation | Defender for Endpoint, Sentinel, KQL | [Repo](https://github.com/hossnfeffa/Honeypot-Lifecycle) |
-| Vulnerability Management Program | Security Operations | Vulnerability Mgmt, Risk Prioritization | [Repo](https://github.com/hossnfeffa/Vulnerability-Management-Program) |
+| Generative AI Security Governance | Governance & Risk | NIST CSF, SP 800-53, AI RMF, CIS Controls | [Repo](https://github.com/hossnfeffa/Generative-AI-Security-Governance) |
 | AI SOC Analyst Agent | AI & Automation | AI-Assisted Analysis, SOC Workflows | [Repo](https://github.com/hossnfeffa/AI-SOC-Analyst-Agent) |
 | L2 Escalation Monitor | AI & Automation | Power Automate, Azure OpenAI, Teams | [Repo](https://github.com/hossnfeffa/L2-Escalation-Monitor) |
 | Service Desk Assistant AI Agent | AI & Automation | AI Agents, SOP Governance | [Repo](https://github.com/hossnfeffa/Service-Desk-Assistant-AI-Agent) |
-| Generative AI Security Governance | Governance & Risk | NIST CSF, SP 800-53, AI RMF, CIS Controls | [Repo](https://github.com/hossnfeffa/Generative-AI-Security-Governance) |
+| Honeypot Lifecycle | Security Investigation | Defender for Endpoint, Sentinel, KQL | [Repo](https://github.com/hossnfeffa/Honeypot-Lifecycle) |
+| Vulnerability Management Program | Security Operations | Vulnerability Mgmt, Risk Prioritization | [Repo](https://github.com/hossnfeffa/Vulnerability-Management-Program) |
 
 ---
 
