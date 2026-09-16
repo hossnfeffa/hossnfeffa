@@ -84,7 +84,6 @@ My projects are designed to demonstrate both sides of that problem:
 
 ## 📂 All Projects
 
-New projects land here first — a row is all it takes. The sections above stay reserved for the ones I want to walk through in detail.
 
 | Project | Category | Key Tech | Link |
 |---|---|---|---|
